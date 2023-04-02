@@ -1,0 +1,8 @@
+program{
+    bool j;
+    read(j);
+    while(j){
+        write("qwe");
+    }
+    write(j);
+}

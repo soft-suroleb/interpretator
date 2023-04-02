@@ -1,0 +1,6 @@
+program{
+    int n1 = 3`;
+    int a, b;
+    a = b = n1;
+    write(a, b, n1);
+}

@@ -1,0 +1,6 @@
+program{
+    int n = 5;
+    int a, b;
+    a = b = n;
+    write(a, " ", b, " ", n);
+}

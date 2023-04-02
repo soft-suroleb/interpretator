@@ -1,0 +1,9 @@
+program{
+    string s1;
+    int n1;
+    read(s1);
+    for (n1 = 0; n1 < 10; n1 = n1 + 1;){
+        s1 = s1 + "L";
+    }
+    write("The result string is ", s1);
+}
